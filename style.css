@@ -1,0 +1,55 @@
+header {
+    text-align: right;
+}
+header img {
+    float: left;
+}
+
+#hero {
+    text-align: center;
+}
+
+#About article {
+    text-align: left;
+    display: inline-block;
+    width: 70%;
+}
+
+#About img {
+    float: right;
+}
+
+#Services article {
+    text-align: right;
+    display: inline-block;
+    width: 100%;
+}
+
+#Services img {
+    display: inline-block;
+    float: left;
+}
+
+#WhyIsItSpecial article {
+    text-align: center;
+    display: inline-block;
+    width: 100%;
+}
+
+ul {
+    padding-inline-start: 0;
+}
+
+li {
+    list-style: none;
+    display: inline-block;
+    width: 33%;
+}
+
+footer {
+    text-align: center;
+}
+
+.logo-footer {
+    display: block;
+}
